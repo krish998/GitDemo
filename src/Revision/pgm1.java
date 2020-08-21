@@ -10,6 +10,10 @@ public class pgm1 {
 		System.out.println(value);
 		System.out.println("aa");
 		System.out.println("bb");
+		System.out.println("aa");
+		System.out.println("gb");
+		System.out.println("fa");
+		System.out.println("db");
 		
 		
 	}

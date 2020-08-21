@@ -7,6 +7,7 @@ public class pgm2 {
 		
 		int op=mulTable(5,10);
 		System.out.println(op);
+		System.out.println("a");
 
 	}
 
