@@ -9,6 +9,8 @@ public class pgm3 {
 		
 		int value=maxDiff(a);
 		System.out.println("the Differnece is"+value);
+		System.out.println("the Differnece is"+value);
+		System.out.println("the Differnece is"+value);
 		
 
 	}

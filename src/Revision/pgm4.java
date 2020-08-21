@@ -9,7 +9,8 @@ public class pgm4 {
 		
 		int[] a={2,3,4,5,7};
 		int[] b={5,6,7,5,8,2};
-		
+		System.out.println("the Differnece is");
+		System.out.println("the Differnece is");
 		int k=0;;
 		
 		ArrayList<Integer> al=new ArrayList<Integer>();
