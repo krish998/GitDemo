@@ -8,6 +8,8 @@ public class pgm1 {
 		int [] a={2,3,4,5,6};//20
 		int value= sumArray(a);
 		System.out.println(value);
+		System.out.println("aa");
+		System.out.println("bb");
 		
 		
 	}
